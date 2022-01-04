@@ -7,6 +7,9 @@ Tambien aparte de obtener valores de distintos sensores podremos encender y apag
 
 <img width="50%" src="https://user-images.githubusercontent.com/61121429/148105862-d04da7e5-f28a-4ccb-bfea-98e1d8ea59a9.PNG"></img>
 
+## Estructura de los Nodos de Firebase
+![image](https://user-images.githubusercontent.com/61121429/148108720-c008e19a-6013-446b-b14a-6c40db985a32.png)
+
 
 ## Materiales
 
@@ -31,3 +34,26 @@ Tambien aparte de obtener valores de distintos sensores podremos encender y apag
 - <a href="https://github.com/adafruit/DHT-sensor-library">DHT11</a>
 - <a href="https://github.com/arduino-libraries/Servo">Servo</a>
 - <a href="https://arduinojson.org/">Arduino Json</a>
+
+
+## Conexiones
+<img width="50%" src="https://user-images.githubusercontent.com/61121429/148109285-b11dad38-30ac-484b-baac-4d3982b97f1e.jpeg"></img>
+
+
+## Video ( Click en el Gif para abrir el video en youtube )
+<a href="https://youtu.be/GY6JXZxQcUA">
+<img src="https://user-images.githubusercontent.com/61121429/148109435-9c351e99-cf1d-40fb-9b16-759672930dc0.gif"></img>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
